@@ -14,3 +14,8 @@ p {
 .translator {
     font-size: 12px;
 }
+
+.first-paragraph,
+.translator {
+    margin-top: 10px;
+}
